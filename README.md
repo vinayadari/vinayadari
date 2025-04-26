@@ -8,7 +8,7 @@ i have been passionate towards creating best website's, and i am a work in progr
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vinayadari00@gmail.com](mailto:vinayadari00@gmail.com)
-* 🧠  I'm learning node js
+* 🧠  I'm learning node js,sql,next js,vuejs,react
 * 🤝  I'm open to collaborating on E-commerce projects
 
 ### Skills

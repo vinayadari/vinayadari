@@ -2,7 +2,7 @@
 
 ## 🌐 Web Developer | Tech Enthusiast | Lifelong Learner
 
-I’m passionate about building clean, user-friendly websites and always striving to improve my skills. I consider myself a work in progress — continuously evolving with each project I take on.
+I’m passionate about building websites that solve real world problems and striving to improve my skills. I consider myself a work in progress — continuously evolving with each project I take on.
 
 - 🌍 Based in **India**
 - 📫 Reach me at: [vinayadari00@gmail.com](mailto:vinayadari00@gmail.com)

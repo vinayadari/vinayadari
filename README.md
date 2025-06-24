@@ -4,7 +4,7 @@ Hi 👋 My name is VINAY ADARI
 Web developer
 -------------
 
-i have been passionate towards creating best website's, and i am a work in progress
+I'm passionate about using web development to solve real-world problems, and i am a work in progress
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vinayadari00@gmail.com](mailto:vinayadari00@gmail.com)

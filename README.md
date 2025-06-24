@@ -8,7 +8,7 @@ i have been passionate towards creating best website's, and i am a work in progr
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vinayadari00@gmail.com](mailto:vinayadari00@gmail.com)
-* 🧠  I'm learning node js
+* 🧠  I'm learning node js,sql,next js,vuejs,react
 * 🤝  I'm open to collaborating on E-commerce projects
 
 ### Skills
@@ -33,7 +33,7 @@ i have been passionate towards creating best website's, and i am a work in progr
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/vinayadari/youtube" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayadari&repo=youtube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vinayadari/dice-game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayadari&repo=dice-game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/vinayadari/dice-game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayadari&repo=dice-game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 

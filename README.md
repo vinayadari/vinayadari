@@ -4,12 +4,12 @@ Hi 👋 My name is VINAY ADARI
 Web developer
 -------------
 
-I'm passionate about using web development to solve real-world problems, and i am a work in progress
+I'm passionate about using web development tools to solve real-world problems. I'm a work in progress, constantly learning and growing with every project I build.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vinayadari00@gmail.com](mailto:vinayadari00@gmail.com)
 * 🧠  I'm learning node js,Postgresql,react
-* 🤝  I'm open to collaborating on E-commerce projects
+* 🤝  I'm open to collaborating on Full Stack projects
 
 ### Skills
 

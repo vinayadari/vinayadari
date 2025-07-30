@@ -1,7 +1,7 @@
 
 - 🔭 I’m currently working on **Building cloud-native websites that solve real-world problems, integrating trained machine learning models to enhance functionality, and scaling solutions for high performance and reliability**
 
-- 🌱 I’m currently learning **React,Nodejs,ML**
+- 🌱 I’m currently learning **React, Node.js, and ML, and exploring how to integrate my own trained AI models into real-world applications**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 

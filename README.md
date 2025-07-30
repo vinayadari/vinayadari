@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayadari&label=Profile%20views&color=0e75b6&style=flat-square" alt="vinayadari" /> </p>
 
 - 🔭 I’m currently working on **Building cloud-native websites that solve real-world problems, integrating trained machine learning models to enhance functionality, and scaling solutions for high performance and reliability**
 

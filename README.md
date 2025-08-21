@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vinayadari00@gmail.com**
 
-- ⚡ Fun fact **i Like Solving Real World Problems**
+- ⚡im not a great coder but a good coder with great habits
 
 
 

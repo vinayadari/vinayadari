@@ -11,7 +11,7 @@ I’m currently working on **Building cloud-native websites that solve real-worl
 ## 🎓 About Me
 
 - ⚡im not a great coder but a good coder with great habits
-- - 📫 How to reach me **vinayadari00@gmail.com**
+-  📫 How to reach me **vinayadari00@gmail.com**
 
 
 ## 🌐 Connect with me:

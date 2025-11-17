@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm vinay adari</h1>
 
 # 💫 About Me:
-I’m currently working on **Building cloud-native websites that solve real-world problems, integrating trained machine learning models to enhance functionality, and scaling solutions for high performance and reliability**
+I’m currently working on **Building Scalable websites that solve real-world problems, integrating trained machine learning models to enhance functionality, and scaling solutions for high performance and reliability**
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)

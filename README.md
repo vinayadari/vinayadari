@@ -3,7 +3,7 @@
 # 💫 About Me:
 Developer passionate about building scalable and high-performance web applications, with a strong interest in designing efficient backend systems. Focused
 on optimization and thoughtful system design. Highly passionate about integrating AI into web applications to create intelligent, impactful products that
-deliver better user experiences**
+deliver better user experiences
 ## 🚀 What I'm Up To
 
 - 🚀 Full Stack Developer (MERN) with strong backend and API design experience

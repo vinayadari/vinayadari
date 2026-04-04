@@ -20,6 +20,7 @@ deliver better user experiences
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayadari/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/vinayadaridev/)
+[![X](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/VinayAdari_)
 
 # 💻 Tech Stack:
 Languages: 

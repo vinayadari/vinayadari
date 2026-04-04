@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋 I'm vinay adari</h1>
 
 # 💫 About Me:
-I’m currently working on **Building Scalable websites that solve real-world problems, integrating trained machine learning models to enhance functionality, and scaling solutions for high performance and reliability**
+Developer passionate about building scalable and high-performance web applications, with a strong interest in designing efficient backend systems. Focused
+on optimization and thoughtful system design. Highly passionate about integrating AI into web applications to create intelligent, impactful products that
+deliver better user experiences.**
 ## 🚀 What I'm Up To
 
 - 🚀 Full Stack Developer (MERN) with strong backend and API design experience

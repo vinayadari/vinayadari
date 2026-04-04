@@ -4,9 +4,10 @@
 I’m currently working on **Building Scalable websites that solve real-world problems, integrating trained machine learning models to enhance functionality, and scaling solutions for high performance and reliability**
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Spring Boot applications with PostgreSQL
-
+-🚀 Full Stack Developer (MERN) with strong backend and API design experience
+-🔐 Skilled in building secure, scalable applications with authentication systems
+-⚡ Passionate about performance optimization and clean, maintainable code
+-🧠 Exploring Machine Learning and real-world AI integrations
 
 ## 🎓 About Me
 

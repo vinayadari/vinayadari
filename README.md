@@ -1,43 +1,83 @@
-<h1 align="center">Hi 👋 I'm vinay adari</h1>
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="banner" />
+</p>
 
-# 💫 About Me:
-Developer passionate about building scalable and high-performance web applications, with a strong interest in designing efficient backend systems. Focused
-on optimization and thoughtful system design. Highly passionate about integrating AI into web applications to create intelligent, impactful products that
-deliver better user experiences
-## 🚀 What I'm Up To
+<h1 align="center">Hi 👋 I'm Vinay Adari</h1>
 
-- 🚀 Full Stack Developer (MERN) with strong backend and API design experience
-- 🔐 Skilled in building secure, scalable applications with authentication systems
-- ⚡ Passionate about performance optimization and clean, maintainable code
-- 🧠 Exploring Machine Learning and real-world AI integrations
+<h3 align="center">Full Stack Developer | Backend-Focused | AI Integration Enthusiast</h3>
+
+---
+
+## 💫 About Me
+I build scalable, backend-heavy web applications with a focus on performance, clean architecture, and real-world usability.
+
+I’m particularly interested in **system design, optimization, and integrating AI into production apps** — not just experimenting, but shipping useful features.
+
+---
+
+## 🚀 What I'm Currently Doing
+
+- 🧠 Building AI-powered web applications (analysis tools, automation systems)
+- ⚙️ Designing efficient backend systems and APIs
+- 🔐 Implementing secure authentication & authorization flows
+- 📈 Improving performance and scalability of applications
+
+---
+
+## 🧩 What I Focus On
+
+- Writing **clean, maintainable code**
+- Thinking in terms of **systems, not just features**
+- Solving problems with **efficient algorithms + good design**
+- Building projects that are actually **useful and deployable**
+
+---
 
 ## 🎓 About Me
 
-- ⚡im not a great coder but a good coder with great habits
--  📫 How to reach me **vinayadari00@gmail.com**
+- ⚡ Not the best coder—but consistent, disciplined, and improving fast  
+- 📫 Reach me at: **vinayadari00@gmail.com**
 
+---
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayadari/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/vinayadaridev/)
-[![X](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/VinayAdari_)
+## 🌐 Connect with Me
 
-# 💻 Tech Stack:
-Languages: 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- 💼 LinkedIn: https://www.linkedin.com/in/vinayadari/  
+- 💻 LeetCode: https://leetcode.com/u/vinayadaridev/  
+- 🐦 X: https://x.com/VinayAdari_  
 
-Developer Tools: 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
-Libraries/Frameworks: 
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+## 💻 Tech Stack
 
+### Languages
+Python • Java • JavaScript • SQL • C • HTML • CSS  
+
+### Backend & Database
+Node.js • Express • PostgreSQL  
+
+### Frontend
+React.js  
+
+### Tools
+Git • Postman  
+
+---
+
+## 📌 What You Should Check Out
+
+- 🔍 AI Code Review System (in progress)
+- ⚡ Performance-focused backend projects
+- 🧠 Problem solving (LeetCode)
+
+---
+
+## ⚡ Goals
+
+- Build production-level AI-integrated platforms  
+- Master backend system design  
+- Contribute to impactful, real-world products  
+
+---
+
+⭐ *Always building, always improving.*

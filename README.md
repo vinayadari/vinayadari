@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="banner" />
+  <img src="banner.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Vinay Adari</h1>

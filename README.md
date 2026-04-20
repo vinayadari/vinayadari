@@ -35,7 +35,7 @@ I’m particularly interested in **system design, optimization, and integrating 
 
 ## 🎓 About Me
 
-- ⚡ Not the best coder—but consistent, disciplined, and improving fast  
+- ⚡ i'm not a great developer, but a developer with great habits  
 - 📫 Reach me at: **vinayadari00@gmail.com**
 
 ---

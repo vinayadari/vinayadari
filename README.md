@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋 I'm Vinay Adari</h1>
 
 <h3 align="center">Full Stack Developer | Backend-Focused | AI Integration Enthusiast</h3>
+<h2 align="center">"I'm naturally not a good coder but every ounce of me wants to get better"</h2>
 
 ---
 
